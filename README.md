@@ -48,9 +48,9 @@ The dataset used for this project is sourced from Kaggle and contains 3 sets of 
 Download the dataset and extract the contents into **Time-Series-Project** folder. We have to place this item at the same level as the `main.ipynb` file. The directory structure should be as follows:
 ```
 📁 Time-Series-Project
-└── main.ipynb                   # Main notebook for running the project
-└── README.md                    # Project README file
-└── requirements.txt             # List of required Python packages
+└── main.ipynb                  # Main notebook for running the project
+└── README.md                   # Project README file
+└── requirements.txt            # List of required Python packages
 └── 📁 archive                  # Dataset extracted from Kaggle
     └── 📁 1st_test
         └── 📁 1st_test
@@ -79,9 +79,9 @@ This notebook contains all the necessary code to train the model, evaluate its p
 The repository is structured as follows:
 ```
 📁 Time-Series-Project
-└── main.ipynb                   # Main notebook for running the project
-└── README.md                    # Project README file
-└── requirements.txt             # List of required Python packages
+└── main.ipynb                  # Main notebook for running the project
+└── README.md                   # Project README file
+└── requirements.txt            # List of required Python packages
 └── 📁 archive                  # Dataset extracted from Kaggle
     └── 📁 1st_test
         └── 📁 1st_test
